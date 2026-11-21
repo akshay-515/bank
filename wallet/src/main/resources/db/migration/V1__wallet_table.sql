@@ -1,0 +1,3 @@
+CREATE TABLE wallets(
+    wallet_id BIGSERIAL PRIMARY KEY NOT NULL
+);
